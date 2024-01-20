@@ -1,3 +1,4 @@
+### 백준 팩토리얼 
 n=int(input())
 def factorial(n):
     if(n>1):

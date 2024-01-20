@@ -1,3 +1,5 @@
+###백준
+
 N, B =map(int, input().split())
 x  = ''
 arr = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
